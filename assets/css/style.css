@@ -1,0 +1,92 @@
+.home-banner{
+    height:450px; 
+    width:100%; 
+    /* background-color:rgb(255, 255, 0); */
+    background: url("../img/rich-tervet-662093-unsplash.jpg") no-repeat;
+    background-size: 100% 100%;
+    color: rgba(255, 255, 255, 0.89);
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.wrapper{
+    background-color: rgba(213, 213, 231, 0.678);
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+.row{
+    margin-top: 20px;
+}
+.panel-div{
+    height: 400px;
+    width: 300px;
+    border: 2px solid rgba(255,255,255, 0.2);
+    /* border-left: 2px solid rgba(218, 216, 245, 0.6); */
+    background-color: rgba(255, 255, 255, 0.521);
+    border-radius: 1px;
+    margin: auto;
+    padding: 10px;
+    overflow: auto;
+}
+.div-auto{
+    margin: auto;
+}
+.nav-item{
+    padding: 8px;
+}
+.form-inline .search-l{
+    height: 50px;
+    width: 500px; 
+    border-radius: 1px;
+}
+.search-btn{
+    border-radius: 1px;
+}
+.home-banner-overlay{
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.562);
+}
+.banner-form{
+    margin-top: 100px;
+    padding:10px;
+}
+/* .search{
+    padding:5px;
+} */
+.banner-search{
+    border-radius: 0;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.679);
+    color: rgba(255, 255, 255, 0.849);
+    /* widht:100%; */
+}
+.btn-search{
+    background-color: rgb(0, 183, 255);
+    border-radius: 0;
+}
+.home-section-2{
+    padding:50px;
+    background-color: rgba(255,255,255, 0.2); 
+}
+.snip-panel{
+    height: 330px;
+    width: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.252);
+    box-shadow: 0 3px rgba(0, 0, 0, 0.305);
+    padding: 10px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.252);
+    border-radius: 3px;
+}
+.signin{
+    height: 400px;
+    width: 300px;
+    background-color: #fff;
+    margin: auto;
+}
